@@ -1,0 +1,36 @@
+.login {
+    display: block;
+    height: 100vh;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.login-header {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    margin: 0 0 30px;
+    padding: 25px 0 10px;
+    border-bottom: 1px solid gray;
+}
+
+#spotify-logo {
+    max-width: 200px;
+    max-height: 100%;
+}
+
+/* Login container */
+.login-container {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.login-container > a {
+    padding: 16px 14px 18px;
+    border-radius: 99px;
+    background-color: #15883E;
+    font-weight: 800;
+    color: white;
+    text-decoration: none;
+}
