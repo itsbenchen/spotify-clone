@@ -12,8 +12,6 @@ Libraries used:
 - spotify-web-api-js (Spotify's web API)
 - @material-ui/icons (Material UI Icon)
 
-Spotify color: #1db954
-
 What's in the build?
 - Responsive Design
 - Material UI for icons
